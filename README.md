@@ -2,7 +2,7 @@
 
 
 https://gultrotpy.github.io/Vue_HW3/login.html
-<br>LV2：後台登入頁面＋串接新增、刪除、編輯 API 完成頁面功能
+<h3>LV2：後台登入頁面＋串接新增、刪除、編輯 API 完成頁面功能</h3>
 <br>完成功能：
       <br>登入(取得cookie放入token，若是沒有登入成功會導回login.html)、
        <br>取得資料(getData())、
